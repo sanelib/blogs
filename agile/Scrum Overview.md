@@ -24,17 +24,14 @@ Scrum Process Framework can be viewed by means of a sequence of events and the c
 *   **Sprint review meeting:** The team presents the work they have completed at a sprint review meeting to *Product owner*, *Stackholders* etc. This can be individual presenting his/her part of work or Team leader presenting overall work done in the sprint. This will give chance to get feedback of final incremental product.
 *   **Sprint retrospective meeting:** The purpose of this meeting is to take note of what went well in previous sprint, which areas needs improvements and what is action items to improve it.The meeting is between Scrum master and  *Scrum Team* at the end of sprint and start of new sprint.The Sprint Retrospective is an opportunity for the *Scrum Team* to introspect and improve within the Scrum process framework so as to make the next Sprint outcome more effective.
 *   **User Story:** It is narrated from user perspective regarding what he or she wants to have rather that what system can do for him. It is functional or non-functional requirement written by Product Owner. One Product feature requirement can be divided into multiple User Stories. Easch User story can be further divided into multiple task. User story has Acceptance criterias defined for acceptance of User story. User Story structure is as follows -
-          As a <Type of User>,
-          I want <To Perform Some Task>,
-          So that <I can achieve some goal/benefit/value>.
-* **Estimation:** Each User story is estimated during Spring planning meeting by Scrum Team. Estimation is agreed by all participants in Spring planning and then User story is given story point. One story point equals to 6 or 8 efffective hours of one resource.The Scrum Estimation is in terms of the degree of difficulty for each of the User Stories. To assess the degree of difficulty, a particular scale is used.There are several types of scales that are used in Scrum EstimationFollowing are some examples -
--- Numeric Sizing (1 through 10)
--- T-shirt Sizes (XS, S, M, L, XL XXL, XXXL)
--- Fibonacci Sequence (1, 2, 3, 5, 8, 13, 21, 34, etc.)
+          As a User,
+          I want To Perform Some Task,
+          So that I can achieve some goal/benefit/value.
+* **Estimation:** Each User story is estimated during Spring planning meeting by Scrum Team. Estimation is agreed by all participants in Spring planning and then User story is given story point. One story point equals to 6 or 8 efffective hours of one resource.The Scrum Estimation is in terms of the degree of difficulty for each of the User Stories. To assess the degree of difficulty, a particular scale is used.There are several types of scales that are used in Scrum EstimationFollowing are some examples Numeric Sizing (1 through 10), T-shirt Sizes (XS, S, M, L, XL XXL, XXXL), Fibonacci Sequence (1, 2, 3, 5, 8, 13, 21, 34, etc.)
 
 
 * **Burn Down Chart:** Scrum Master tracks Spring progress using this chart. It shows remaining efforts in day-wise number of hours. Below chart shows remaining planned hours vs actual hours day wise. It gives early notification to Scrum Master about any risk of not meeting planning and take necessary action early in the sprint.
-![Burn Down chart](https://www.tutorialspoint.com/scrum/images/scrum_bum_down_chart_2.jpg)
+![Burn Down chart](https://raw.githubusercontent.com/sanelib/blogs/master/static/img/scrumoverview_burndownchart.jpg)
 
 ### Scrum Tools
 Scrum Tools facilitate planning and tracking of Scrum projects. They provide a single place for managing the product backlog, sprint backlog, planning and tracking Sprints, displaying Burndown charts, conducting daily Scrum Meetings, and conducting Scrum Retrospectives. Below are several tool for managing scrum projects - 
@@ -45,7 +42,7 @@ Taiga - https://taiga.io/
 
 ### Scrum overall process
 
-![Scrum Process diagram](http://www.augustinfotech.com/app/asset/uploads/2015/12/Scrum.jpg)
+![Scrum Process diagram](https://raw.githubusercontent.com/sanelib/blogs/master/static/img/scrumoverview_processframework.jpg)
 
 ### Pros of Scrum
 There are obvious reasons why Scrum has become most popular form of Agile framework.
