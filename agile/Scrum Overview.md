@@ -36,8 +36,10 @@ Scrum Process Framework can be viewed by means of a sequence of events and the c
 ### Scrum Tools
 Scrum Tools facilitate planning and tracking of Scrum projects. They provide a single place for managing the product backlog, sprint backlog, planning and tracking Sprints, displaying Burndown charts, conducting daily Scrum Meetings, and conducting Scrum Retrospectives. Below are several tool for managing scrum projects - 
 
-Rally Dev - https://rally1.rallydev.com/slm/login.op
-Jira - https://www.atlassian.com/software/jira/agile
+Rally Dev - https://rally1.rallydev.com/slm/login.op  
+
+Jira - https://www.atlassian.com/software/jira/agile  
+
 Taiga - https://taiga.io/
 
 ### Scrum overall process
