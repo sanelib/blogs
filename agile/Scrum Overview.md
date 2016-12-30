@@ -60,4 +60,4 @@ There are areas which needs improvements by enhancing this methodology.
 * Individual team members efforts may hide due to working as Scrum Team
 * Overall Scrum team performance may fail if individuals are not committed or cooperative or well experienced
 * Frequent meetings sometimes frustrate team members
-* If sprint planning is not done properly then Scrum Team may have to face stree to meet deadline
+* If sprint planning is not done properly then Scrum Team may have to face stress to meet deadline
